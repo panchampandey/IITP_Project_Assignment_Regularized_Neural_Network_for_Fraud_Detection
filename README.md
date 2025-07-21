@@ -1,4 +1,4 @@
-# IITP_Project_Assignment_Regularized_Neural_Network_for_Fraud_Detection
+## IIT_P_Project_Assignment_Regularized_Neural_Network_for_Fraud_Detection
 ### 🔐 Fraud Detection with Neural Networks & Regularization Techniques
 Course Assignment 04 – M.Tech AI & Data Science | IIT Patna
 Author: Kumar Pancham Prasar | Roll No: 2303RES23
